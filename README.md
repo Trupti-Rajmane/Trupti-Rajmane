@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Trupti-Rajmane
 - 👀 I’m interested in ...data analyst
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...anyone new project
+- 💞️ I’m looking to collaborate on ...any new project
 - 📫 How to reach me ...truptirajmane87@gmail.com
 
 <!---
